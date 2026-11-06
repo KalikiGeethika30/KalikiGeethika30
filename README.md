@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi there! 👋 I'm Geethika
 
-<!--
-**KalikiGeethika30/KalikiGeethika30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Electronics and Communication Engineering Student
 
-Here are some ideas to get you started:
+💻 Interested in Embedded Systems, IoT and Software Development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- Pursuing BE in Electronics and Communication Engineering.
+- Interested in learning new technologies.
+- Exploring real-world engineering projects.
+- Preparing for career opportunities in the IT and core electronics fields.
+
+### 🛠️ Technical Skills
+- C Programming
+- Python
+- Embedded Systems
+- Internet of Things (IoT)
+- ESP32
+- MATLAB / Simulink
+
+### 📌 My Projects
+
+**Flood Detection System using ESP32**
+- Water-level monitoring.
+- Flood detection using sensors.
+- Early warning system concept.
+
+### 🎯 Career Goal
+To become a skilled engineer and contribute to innovative technology.
+
+### 🤝 Let's Connect
+- GitHub: https://github.com/KalikiGeethika30
+-
